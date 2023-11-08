@@ -1,0 +1,1 @@
+export const baseUrl='https://video-server-64s6.onrender.com'
